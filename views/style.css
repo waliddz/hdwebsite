@@ -1,0 +1,53 @@
+.body{
+	font-family: 'elmessiri-light';
+	font-family: 'cairo-bold';
+	font-family: 'cairo-light';
+	direction: rtl;
+	font-size: 16px;
+}
+
+span:hover {
+	color:cornflowerblue;
+}
+
+code {
+	border-radius: 10px;
+	border-bottom: 1px solid #B6B6B6;
+}
+
+.ul {
+
+		max-width: 60%;
+		border-radius: 10px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f3f3f3;
+		border-bottom: 1px solid #B6B6B6;
+
+}
+
+.li {
+    float: right;
+		padding-left: 6%;
+		padding-right: 7%;
+}
+
+.li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.li a:hover {
+    background-color: #B0B0B0;
+}
+.blogs {
+	max-width: 50%;
+	border-radius: 10px;
+	background-color: #f3f3f3;
+	border-bottom: 1px solid #B6B6B6;
+}
