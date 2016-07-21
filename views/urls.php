@@ -123,7 +123,7 @@ class HomeController extends BaseController {
   <pre>
     <code class="php">
 /* views/home.php */
-a href="echo $this->add("login");"
+a href="echo $this->url("login");"
 
 /* results */
 The href will be : http://www.yourwebsitename.com/login
